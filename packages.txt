@@ -9,3 +9,5 @@ seaborn
 transformers
 google-cloud-speech
 pocketsphinx
+opencv-python
+opencv-contrib-python
