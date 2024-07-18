@@ -11,3 +11,4 @@ google-cloud-speech
 pocketsphinx
 opencv-python
 opencv-contrib-python
+scikit-image
