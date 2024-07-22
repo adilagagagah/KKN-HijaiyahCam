@@ -17,7 +17,7 @@ number_to_text = {
     15: 'lam',
     16: 'mim',
     17: 'nun',
-    18: 'ha',
+    18: 'hha',
     19: 'waw',
     20: 'ya',
     21: 'ta',
@@ -86,7 +86,7 @@ lab_to_text = {
     'lab_23': 'lam',
     'lab_24': 'mim',
     'lab_25': 'nun',
-    'lab_26': 'ha',
+    'lab_26': 'hha',
     'lab_27': 'waw',
     'lab_28': 'ya'
 }
