@@ -12,3 +12,4 @@ pocketsphinx
 opencv-python
 opencv-contrib-python
 scikit-image
+tflite-support
